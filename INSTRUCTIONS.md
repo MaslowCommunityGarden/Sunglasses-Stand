@@ -1,7 +1,5 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+1. Cut out Main.SVG, Support.SVG, and Bracket.SVG three times.
+2. Sand all edges to ensure proper fitment between parts.
+3. Slide Support and Brackets into slots as shown in the example picture, adding glue to make a long lasting bond.
+4. Finish with paint or stain of your choosing.
+5. Display those awesome shades!
