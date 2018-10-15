@@ -1,7 +1,5 @@
-Edit this file to add a bill of materials
+This project can be made from one 24" x 24" piece of 0.25" material.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+Would love to see how many different ways this can be made!
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Feel free to tag us @makermadecnc on instagram with pictures of your build!
